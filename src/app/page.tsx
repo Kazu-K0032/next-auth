@@ -1,4 +1,4 @@
-import CheckProviders from "@/components/check-providers/CheckProviders";
+import CheckProviders from "@/components/check-providers";
 
 export default function Home() {
 
